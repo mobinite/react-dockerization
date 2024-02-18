@@ -9,13 +9,14 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <h1>This is Mobin</h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/mobinite"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My GitHub Profile
         </a>
       </header>
     </div>
