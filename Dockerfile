@@ -3,4 +3,4 @@ WORKDIR /react-dockerization
 COPY package.json ./
 RUN npm install
 COPY . .
-CMD [ "npn", "start" ]
+CMD [ "npm", "start" ]
